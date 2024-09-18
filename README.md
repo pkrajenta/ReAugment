@@ -1,5 +1,6 @@
 # ReAugment
 ReAugment is an Augmented Reality (AR) mobile application developed in Unity using C#. It allows users to place and customize furniture in real-world environments using AR technology.  
+  
 🔧 Key Technologies:  
     Unity Packages/Plugins: ARFoundation, LeanTouch  
     Furniture Models: HDRP Furniture Pack (Credits to the original author)  
