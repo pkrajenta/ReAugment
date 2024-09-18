@@ -14,7 +14,7 @@ ReAugment is an Augmented Reality (AR) mobile application developed in Unity usi
 
 🌐 Resources That Helped:
 
-    Unity XR Manual
+    [Unity XR Manual](https://docs.unity3d.com/Manual/XR.html)
     Google AR Foundation
     AR Hello World
     Unity ARFoundation Samples
